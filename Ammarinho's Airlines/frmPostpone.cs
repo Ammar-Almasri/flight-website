@@ -74,7 +74,7 @@ namespace Ammarinho_s_Airlines
 
         private void lblFlightno_Click(object sender, EventArgs e)
         {
-
+            Console.WriteLine("ok");
         }
 
         private void txtboxticketno_TextChanged(object sender, EventArgs e)

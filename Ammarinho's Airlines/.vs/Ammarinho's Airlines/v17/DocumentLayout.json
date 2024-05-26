@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ammar Al Masri\\OneDrive\\Documents\\Buhadhoud\\C#\\Flight\\Ammarinho\u0027s Airlines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{595EE410-B3EC-414F-B9A7-1AC3786B9F0E}|Ammarinho\u0027s Airlines.csproj|c:\\users\\ammar al masri\\onedrive\\documents\\buhadhoud\\c#\\flight\\ammarinho\u0027s airlines\\frmpostpone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{595EE410-B3EC-414F-B9A7-1AC3786B9F0E}|Ammarinho\u0027s Airlines.csproj|solutionrelative:frmpostpone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EE410-B3EC-414F-B9A7-1AC3786B9F0E}|Ammarinho\u0027s Airlines.csproj|c:\\users\\ammar al masri\\onedrive\\documents\\buhadhoud\\c#\\flight\\ammarinho\u0027s airlines\\frmpostpone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{595EE410-B3EC-414F-B9A7-1AC3786B9F0E}|Ammarinho\u0027s Airlines.csproj|solutionrelative:frmpostpone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{595EE410-B3EC-414F-B9A7-1AC3786B9F0E}|Ammarinho\u0027s Airlines.csproj|c:\\users\\ammar al masri\\onedrive\\documents\\buhadhoud\\c#\\flight\\ammarinho\u0027s airlines\\flyammarates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{595EE410-B3EC-414F-B9A7-1AC3786B9F0E}|Ammarinho\u0027s Airlines.csproj|solutionrelative:flyammarates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPostpone.cs",
+              "DocumentMoniker": "C:\\Users\\Ammar Al Masri\\OneDrive\\Documents\\Buhadhoud\\C#\\Flight\\Ammarinho\u0027s Airlines\\frmPostpone.cs",
+              "RelativeDocumentMoniker": "frmPostpone.cs",
+              "ToolTip": "C:\\Users\\Ammar Al Masri\\OneDrive\\Documents\\Buhadhoud\\C#\\Flight\\Ammarinho\u0027s Airlines\\frmPostpone.cs",
+              "RelativeToolTip": "frmPostpone.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwEwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:54:50.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPostpone.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ammar Al Masri\\OneDrive\\Documents\\Buhadhoud\\C#\\Flight\\Ammarinho\u0027s Airlines\\frmPostpone.cs",
+              "RelativeDocumentMoniker": "frmPostpone.cs",
+              "ToolTip": "C:\\Users\\Ammar Al Masri\\OneDrive\\Documents\\Buhadhoud\\C#\\Flight\\Ammarinho\u0027s Airlines\\frmPostpone.cs [Design]",
+              "RelativeToolTip": "frmPostpone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:54:47.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlyAmmarates.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ammar Al Masri\\OneDrive\\Documents\\Buhadhoud\\C#\\Flight\\Ammarinho\u0027s Airlines\\FlyAmmarates.cs",
+              "RelativeDocumentMoniker": "FlyAmmarates.cs",
+              "ToolTip": "C:\\Users\\Ammar Al Masri\\OneDrive\\Documents\\Buhadhoud\\C#\\Flight\\Ammarinho\u0027s Airlines\\FlyAmmarates.cs [Design]",
+              "RelativeToolTip": "FlyAmmarates.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:54:36.596Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
