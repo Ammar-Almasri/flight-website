@@ -40,7 +40,7 @@ namespace Ammarinho_s_Airlines
 
             if (frm == null || frm.ticketno == null)
             {
-                MessageBox.Show("Error: No booked flights.","تستهبل؟",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                MessageBox.Show("Error: No booked flights.","تستهبل يالخوي؟",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
             else
             {
