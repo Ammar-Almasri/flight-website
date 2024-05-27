@@ -25,8 +25,8 @@ namespace Ammarinho_s_Airlines
             lblTicketInfo.Text += "\nDeparture : " + parent.departure.ToShortDateString()
                 + " " + parent.comboBoxFrom.Text.ToString() +
            "\nReturn :      " + parent.returnn.ToShortDateString() + " " + parent.comboBoxTo.Text.ToString()
-           + "\nTicket Number : " + parent.ticketno
-           +"\nSeat Number : " + parent.seatno;
+           + "\nTicket : " + parent.ticketno
+           +"\nSeat : " + parent.seatno;
         }
     }
 }
